@@ -46,3 +46,4 @@
 - [JavaScript Documantation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## HTML and CSS
+- [HTML Documantation](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
