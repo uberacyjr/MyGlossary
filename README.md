@@ -17,6 +17,7 @@
 
 ## Entity Framework Core
  - [DbContext Lifetime, Configuration, and Initialization by Microsoft](https://docs.microsoft.com/en-us/ef/core/dbcontext-configuration/#using-dbcontext-with-dependency-injection)
+ -[Entity Framework Core Tutorial](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx)
  
 ## Patterns of Enterprise Application
  - [Unit of Work by Martin Fowler](https://martinfowler.com/eaaCatalog/unitOfWork.html)
