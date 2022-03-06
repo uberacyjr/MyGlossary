@@ -30,16 +30,22 @@
 - [.NET and .NET Core Support Policy](https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core)
 - [ASP.NET Documentation](https://docs.microsoft.com/en-us/aspnet/core/?WT.mc_id=dotnet-35129-website&view=aspnetcore-6.0)
 - [Lifecycle of an ASP.NET MVC 5 Application](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/lifecycle-of-an-aspnet-mvc-5-application)
-- [ASP.NET MVC Life Cycle](https://dotnettutorials.net/lesson/asp-net-mvc-life-cycle/)
-- [ASP.NET Core Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-6.0)
-- [ASP.NET Core Fundamentals](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-6.0&tabs=windows)
-- [Web APIs with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-6.0)
-- [Memory management and garbage collection (GC) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/memory?view=aspnetcore-6.0)
-- [Async and Await by Stephen Cleary](https://blog.stephencleary.com/2012/02/async-and-await.html?s=08)
-- [Asynchronous programming with async and await by Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
 - [Difference between decimal, float and double in .NET by Jon Skeet](https://stackoverflow.com/questions/618535/difference-between-decimal-float-and-double-in-net)
 - [HTTP with .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/http-client)
-- [RESTful web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+
+- ### Web API
+  - [Web APIs with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-6.0)
+  - [RESTful web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- ### Life Cycle
+  - [Memory management and garbage collection (GC) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/memory?view=aspnetcore-6.0)
+  - [ASP.NET MVC Life Cycle](https://dotnettutorials.net/lesson/asp-net-mvc-life-cycle/)
+  - [ASP.NET Core Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-6.0)
+  - [ASP.NET Core Fundamentals](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-6.0&tabs=windows)
+- ### Async and Await
+  - [Async and Await by Stephen Cleary](https://blog.stephencleary.com/2012/02/async-and-await.html?s=08)
+  - [Asynchronous programming with async and await by Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
+- ### Security
+  - [OAuth 2.0 and OpenID Connect protocols](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols) 
 
 ## YAML
 - [YAML schema reference for Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/?view=azure-pipelines)
