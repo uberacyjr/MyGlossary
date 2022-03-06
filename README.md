@@ -32,6 +32,7 @@
  - [SOLID](https://en.wikipedia.org/wiki/SOLID)
  - [Design Patterns by Source Making](https://sourcemaking.com/design_patterns)
  - [Refactoring to Aggregate Services by Mark Seemann](https://blog.ploeh.dk/2010/02/02/RefactoringtoAggregateServices/)
+ - [DDD Reference Guide](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
  
 ## .NET and .NET Core
 - [.NET and .NET Core Support Policy](https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core)
