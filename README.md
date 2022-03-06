@@ -3,6 +3,9 @@
 ## Architecture
  - [.NET Core Clean Architecture Reference by Steve Smith](https://github.com/ardalis/CleanArchitecture)
  - [System Design](https://github.com/donnemartin/system-design-primer#index-of-system-design-topics)
+ 
+## Azure
+ - [Azure Cli](https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest)
 
 ## Blazor
  - [ASP.NET Core Razor component lifecycle by Microsoft](https://docs.microsoft.com/en-us/aspnet/core/blazor/components/lifecycle?view=aspnetcore-6.0)
