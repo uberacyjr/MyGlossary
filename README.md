@@ -9,3 +9,6 @@
 ## Blazor
  - [ASP.NET Core Razor component lifecycle by Microsoft](https://docs.microsoft.com/en-us/aspnet/core/blazor/components/lifecycle?view=aspnetcore-6.0)
  - [Service Lifetimes in Blazor by Chris Sainty](https://chrissainty.com/service-lifetimes-in-blazor/)
+
+## C#
+ - [Async and Await by Stephen Cleary](https://blog.stephencleary.com/2012/02/async-and-await.html?s=08)
