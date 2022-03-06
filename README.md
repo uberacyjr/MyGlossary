@@ -18,10 +18,13 @@
  - [Radzen Blazor Components](https://blazor.radzen.com/)
  - [ASP.NET Core Blazor JavaScript interoperability (JS interop)](https://docs.microsoft.com/en-us/aspnet/core/blazor/javascript-interoperability/?view=aspnetcore-6.0)
 
-## Entity Framework Core
- - [DbContext Lifetime, Configuration, and Initialization by Microsoft](https://docs.microsoft.com/en-us/ef/core/dbcontext-configuration/#using-dbcontext-with-dependency-injection)
- - [Entity Framework Core Tutorial](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx)
- 
+## Entity Framework
+ - ### EF Core
+   - [DbContext Lifetime, Configuration, and Initialization by Microsoft](https://docs.microsoft.com/en-us/ef/core/dbcontext-configuration/#using-dbcontext-with-dependency-injection)
+   - [Entity Framework Core Tutorial](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx)
+ - ### EF 6
+   - [Entity Framework 6 Documentation](https://docs.microsoft.com/en-us/ef/ef6/)  
+
 ## Patterns of Enterprise Application
  - [Unit of Work by Martin Fowler](https://martinfowler.com/eaaCatalog/unitOfWork.html)
  - [SOLID](https://en.wikipedia.org/wiki/SOLID)
@@ -53,7 +56,7 @@
 - [YAML schema reference for Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/?view=azure-pipelines)
 
 ## JavaScript
-- [JavaScript Documantation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## HTML and CSS
-- [HTML Documantation](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [HTML Documentation](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
