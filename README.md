@@ -12,6 +12,7 @@
 
 ## C#
  - [Async and Await by Stephen Cleary](https://blog.stephencleary.com/2012/02/async-and-await.html?s=08)
+ - [Difference between decimal, float and double in .NET by Jon Skeet](https://stackoverflow.com/questions/618535/difference-between-decimal-float-and-double-in-net)
  
 ## Entity Framework Core
  - [DbContext Lifetime, Configuration, and Initialization by Microsoft](https://docs.microsoft.com/en-us/ef/core/dbcontext-configuration/#using-dbcontext-with-dependency-injection)
