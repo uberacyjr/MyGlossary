@@ -17,6 +17,7 @@
  - [Material Design components for Blazor](https://www.matblazor.com/)
  - [Radzen Blazor Components](https://blazor.radzen.com/)
  - [ASP.NET Core Blazor JavaScript interoperability (JS interop)](https://docs.microsoft.com/en-us/aspnet/core/blazor/javascript-interoperability/?view=aspnetcore-6.0)
+ - [EventCallback](https://docs.microsoft.com/en-us/aspnet/core/blazor/components/event-handling?view=aspnetcore-6.0#eventcallback)
 
 ## Entity Framework
  - ### EF Core
