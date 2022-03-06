@@ -10,6 +10,7 @@
  - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest)
 
 ## Blazor
+ - [Hosting Models](https://docs.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-6.0)
  - [ASP.NET Core Razor component lifecycle by Microsoft](https://docs.microsoft.com/en-us/aspnet/core/blazor/components/lifecycle?view=aspnetcore-6.0)
  - [Service Lifetimes in Blazor by Chris Sainty](https://chrissainty.com/service-lifetimes-in-blazor/)
  - [Blazor Component Folder Structure by Jon Hilton](https://jonhilton.net/blazor-component-folder-structure/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com&s=08)
