@@ -22,8 +22,9 @@
  - ### EF Core
    - [DbContext Lifetime, Configuration, and Initialization by Microsoft](https://docs.microsoft.com/en-us/ef/core/dbcontext-configuration/#using-dbcontext-with-dependency-injection)
    - [Entity Framework Core Tutorial](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx)
+   - [Design-Time Factory](https://docs.microsoft.com/en-us/ef/core/cli/dbcontext-creation?tabs=dotnet-core-cli#from-a-design-time-factory)
  - ### EF 6
-   - [Entity Framework 6 Documentation](https://docs.microsoft.com/en-us/ef/ef6/)  
+   - [Entity Framework 6 Documentation](https://docs.microsoft.com/en-us/ef/ef6/)
 
 ## Patterns of Enterprise Application
  - [Unit of Work by Martin Fowler](https://martinfowler.com/eaaCatalog/unitOfWork.html)
