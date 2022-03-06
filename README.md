@@ -3,6 +3,7 @@
 ## Architecture
  - [.NET Core Clean Architecture Reference by Steve Smith](https://github.com/ardalis/CleanArchitecture)
  - [System Design](https://github.com/donnemartin/system-design-primer#index-of-system-design-topics)
+ - [Architecting Cloud Native .NET Applications for Azure](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/)
  
 ## Azure
  - [Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=popular)
