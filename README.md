@@ -21,3 +21,4 @@
  - [Unit of Work by Martin Fowler](https://martinfowler.com/eaaCatalog/unitOfWork.html)
  - [SOLID](https://en.wikipedia.org/wiki/SOLID)
  - [Design Patterns by Source Making](https://sourcemaking.com/design_patterns)
+ - [Refactoring to Aggregate Services by Mark Seemann](https://blog.ploeh.dk/2010/02/02/RefactoringtoAggregateServices/)
