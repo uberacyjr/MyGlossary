@@ -40,6 +40,7 @@
 - [HTTP with .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/http-client)
 - [Memory management and garbage collection (GC) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/memory?view=aspnetcore-6.0)
 - [Logging](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-6.0)
+- [Best Practices for Exceptions](https://docs.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions)
 - ### System.IO
   - [System.IO Namespace](https://docs.microsoft.com/en-us/dotnet/api/system.io?view=net-6.0)
 - ### Web API
