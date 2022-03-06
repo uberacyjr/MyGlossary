@@ -40,6 +40,7 @@
 - ### Web API
   - [Web APIs with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-6.0)
   - [RESTful web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+  - [Minimal web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-6.0&tabs=visual-studio)
 - ### Life Cycle
   - [Lifecycle of an ASP.NET MVC 5 Application](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/lifecycle-of-an-aspnet-mvc-5-application)
  
