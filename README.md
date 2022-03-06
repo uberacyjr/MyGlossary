@@ -36,8 +36,10 @@
 - [Web APIs with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-6.0)
 - [Memory management and garbage collection (GC) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/memory?view=aspnetcore-6.0)
 - [Async and Await by Stephen Cleary](https://blog.stephencleary.com/2012/02/async-and-await.html?s=08)
+- [Asynchronous programming with async and await by Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
 - [Difference between decimal, float and double in .NET by Jon Skeet](https://stackoverflow.com/questions/618535/difference-between-decimal-float-and-double-in-net)
 - [HTTP with .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/http-client)
+- [RESTful web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ## YAML
 - [YAML schema reference for Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/?view=azure-pipelines)
