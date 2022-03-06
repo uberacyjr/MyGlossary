@@ -24,5 +24,6 @@
  - [Design Patterns by Source Making](https://sourcemaking.com/design_patterns)
  - [Refactoring to Aggregate Services by Mark Seemann](https://blog.ploeh.dk/2010/02/02/RefactoringtoAggregateServices/)
  
-## .NET
+## .NET and .NET Core
 - [.NET and .NET Core Support Policy](https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core)
+- [ASP.NET Documentation](https://docs.microsoft.com/en-us/aspnet/core/?WT.mc_id=dotnet-35129-website&view=aspnetcore-6.0)
