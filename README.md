@@ -16,3 +16,4 @@
  
 ## Patterns of Enterprise Application
  - [Unit of Work by Martin Fowler](https://martinfowler.com/eaaCatalog/unitOfWork.html)
+ - [SOLID](https://en.wikipedia.org/wiki/SOLID)
