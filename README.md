@@ -41,3 +41,7 @@
 
 ## YAML
 - [YAML schema reference for Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/?view=azure-pipelines)
+
+## JavaScript
+
+## HTML and CSS
