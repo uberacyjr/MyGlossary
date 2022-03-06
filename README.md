@@ -8,6 +8,7 @@
  - [Service Lifetimes in Blazor by Chris Sainty](https://chrissainty.com/service-lifetimes-in-blazor/)
  - [Blazor Component Folder Structure by Jon Hilton](https://jonhilton.net/blazor-component-folder-structure/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com&s=08)
  - [Material Design components for Blazor](https://www.matblazor.com/)
+ - [Radzen Blazor Components](https://blazor.radzen.com/)
 
 ## C#
  - [Async and Await by Stephen Cleary](https://blog.stephencleary.com/2012/02/async-and-await.html?s=08)
